@@ -1,38 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wiigg.uk/page/about/</loc>
-    <lastmod>2019-02-02T23:08:37+00:00</lastmod>
+    <loc>https://wiigg.uk/</loc>
   </url>
   
   <url>
-    <loc>https://wiigg.uk/2019/02/02/first-post/</loc>
-    <lastmod>2019-02-02T23:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/page/</loc>
-    <lastmod>2019-02-02T23:08:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/post/</loc>
-    <lastmod>2019-02-02T23:07:01+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wiigg.uk/categories/</loc>
   </url>
   
   <url>
     <loc>https://wiigg.uk/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/</loc>
-    <lastmod>2019-02-02T23:08:37+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,36 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wiigg blog</title>
+    <title>./wiigg</title>
     <link>https://wiigg.uk/</link>
-    <description>Recent content on wiigg blog</description>
+    <description>Recent content on ./wiigg</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>Danny Wigg</copyright>
-    <lastBuildDate>Sat, 02 Feb 2019 23:08:37 +0000</lastBuildDate>
+    <language>en</language>
     
 	<atom:link href="https://wiigg.uk/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://wiigg.uk/page/about/</link>
-      <pubDate>Sat, 02 Feb 2019 23:08:37 +0000</pubDate>
-      
-      <guid>https://wiigg.uk/page/about/</guid>
-      <description>I&amp;rsquo;m a technologist, avid lifelong learner and logician. I love open source, technology platforms and improving our planet for everyone and everything.
-Currently residing in the UK, I work at Microsoft as a Technology Strategist. There, I help Microsoft&amp;rsquo;s network of partners shape and build new products, solutions and services centred on Azure and Microsoft 365. But my primary focus is Azure.
-Previously, I was a Technology Advocate at Hewlett Packard Enterprise where I founded a team that curated strategic alliances with technology companies across Europe, the Middle East and Africa.</description>
-    </item>
-    
-    <item>
-      <title>Hugo with GitHub Pages</title>
-      <link>https://wiigg.uk/2019/02/02/first-post/</link>
-      <pubDate>Sat, 02 Feb 2019 23:07:01 +0000</pubDate>
-      
-      <guid>https://wiigg.uk/2019/02/02/first-post/</guid>
-      <description>This is not my first post, this is just a tribute.</description>
-    </item>
     
   </channel>
 </rss>
