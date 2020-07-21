@@ -6,9 +6,19 @@
     <description>Recent content in Categories on ./wiigg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2020 17:33:32 +0100</lastBuildDate>
     
 	<atom:link href="https://wiigg.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>university</title>
+      <link>https://wiigg.uk/categories/university/</link>
+      <pubDate>Tue, 21 Jul 2020 17:33:32 +0100</pubDate>
+      
+      <guid>https://wiigg.uk/categories/university/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

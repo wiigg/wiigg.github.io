@@ -6,10 +6,19 @@
     <description>Recent content on ./wiigg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 13:35:42 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 17:33:32 +0100</lastBuildDate>
     
 	<atom:link href="https://wiigg.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why MCIT Online?</title>
+      <link>https://wiigg.uk/post/why-mcit/</link>
+      <pubDate>Tue, 21 Jul 2020 17:33:32 +0100</pubDate>
+      
+      <guid>https://wiigg.uk/post/why-mcit/</guid>
+      <description>It has been over a year since being admitted to UPenn&amp;rsquo;s Master of Computer and Information Technology (MCIT) online degree and in that time I&amp;rsquo;ve been asked by coworkers, customers/partners, friends and family, &amp;ldquo;Why MCIT?</description>
+    </item>
     
     <item>
       <title>First Post</title>

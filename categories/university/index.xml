@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ./wiigg</title>
-    <link>https://wiigg.uk/post/</link>
-    <description>Recent content in Posts on ./wiigg</description>
+    <title>university on ./wiigg</title>
+    <link>https://wiigg.uk/categories/university/</link>
+    <description>Recent content in university on ./wiigg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Jul 2020 17:33:32 +0100</lastBuildDate>
     
-	<atom:link href="https://wiigg.uk/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wiigg.uk/categories/university/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://wiigg.uk/post/why-mcit/</guid>
       <description>It has been over a year since being admitted to UPenn&amp;rsquo;s Master of Computer and Information Technology (MCIT) online degree and in that time I&amp;rsquo;ve been asked by coworkers, customers/partners, friends and family, &amp;ldquo;Why MCIT?</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://wiigg.uk/post/first-post/</link>
-      <pubDate>Sun, 17 May 2020 17:45:43 +0100</pubDate>
-      
-      <guid>https://wiigg.uk/post/first-post/</guid>
-      <description>This is not my first blog post, this is just a tribute.</description>
     </item>
     
   </channel>

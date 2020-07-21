@@ -3,31 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wiigg.uk/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/categories/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/tags/mcit-computerscience/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/post/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/tags/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/categories/university/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wiigg.uk/post/why-mcit/</loc>
+    <lastmod>2020-07-21T17:33:32+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wiigg.uk/post/first-post/</loc>
     <lastmod>2020-05-17T17:45:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wiigg.uk/post/</loc>
-    <lastmod>2020-05-17T17:45:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/</loc>
-    <lastmod>2020-05-17T13:35:42+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wiigg.uk/about/</loc>
     <lastmod>2020-05-17T13:35:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wiigg.uk/tags/</loc>
   </url>
   
 </urlset>
